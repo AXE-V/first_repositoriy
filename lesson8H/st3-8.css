@@ -1,0 +1,9 @@
+a:link.www {
+    color: green;
+}
+a:visited.www {
+    color:darkorange;
+}
+a:hover.www {
+    text-decoration: overline;
+}

@@ -1,0 +1,7 @@
+a:link.eee, a:visited.eee {
+    color:red;
+}
+a:hover {
+    color:deeppink;
+    text-decoration: none;
+}

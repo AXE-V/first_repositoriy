@@ -1,0 +1,24 @@
+a:link.blue1, a:visited.blue1 {
+    color: blue;
+}
+a:hover.blue1 {
+    color: green;
+}
+
+
+a:link.red1, a:visited.red1 {
+    color:red;
+}
+a:hover.red1 {
+    color: blue;
+    text-decoration: line-through;
+}
+
+
+a:link.green1, a:visited.green1 {
+    color: green;
+}
+a:hover.green1 {
+    text-decoration: overline;
+    color:red;
+}

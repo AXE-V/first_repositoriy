@@ -1,0 +1,6 @@
+a:link.www, a:visited.www {
+    color: blue;
+}
+a:hover {
+    text-decoration: none;
+}
